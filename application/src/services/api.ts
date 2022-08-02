@@ -1,0 +1,1 @@
+export const gitReposApi = 'https://api.github.com/users/joao472762/repos'
